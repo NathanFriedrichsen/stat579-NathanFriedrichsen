@@ -1,7 +1,7 @@
 # stat579-NathanFriedrichsen
-my first github repo
-
 NathanFriedrichsen
+
+my first github repo
 
 Three main activities I've been doing:
   - Studying Statistics
